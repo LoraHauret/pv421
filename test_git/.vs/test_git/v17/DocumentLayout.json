@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c\u002B\u002B\\C\u002B\u002B_24\\repo24\\test_git\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4A71B0-C4D5-4743-8BCF-201BD6C32573}|test_git.vcxproj|D:\\c\u002B\u002B\\C\u002B\u002B_24\\repo24\\test_git\\test_git.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF4A71B0-C4D5-4743-8BCF-201BD6C32573}|test_git.vcxproj|solutionrelative:test_git.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_git.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\C\u002B\u002B_24\\repo24\\test_git\\test_git.cpp",
+              "RelativeDocumentMoniker": "test_git.cpp",
+              "ToolTip": "D:\\c\u002B\u002B\\C\u002B\u002B_24\\repo24\\test_git\\test_git.cpp*",
+              "RelativeToolTip": "test_git.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T16:25:01.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
